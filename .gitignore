@@ -1,0 +1,25 @@
+# Keil uVision build output
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.lnp
+*.dep
+*.map
+*.htm
+*.build_log.htm
+*.bak
+
+# Per-user Keil layout files
+*.uvguix.*
+*.uvgui.*
+
+# Debugger scratch
+JLinkLog.txt
+*.scvd.bak
+
+# OS
+.DS_Store
+Thumbs.db
